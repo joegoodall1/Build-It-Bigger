@@ -8,9 +8,7 @@ import android.text.TextUtils;
 
 import java.util.concurrent.CountDownLatch;
 
-/**
- * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
- */
+
 public class ApplicationTest extends ApplicationTestCase<Application> {
     String mJsonString = null;
     Exception mError = null;
