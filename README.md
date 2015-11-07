@@ -1,4 +1,4 @@
-# Gradle for Android and Java Final Project
+# Build It Bigger
 
 In this project, an app was created with 2 flavors (paid and free) that uses
 multiple libraries and Google Could Endpoints. The app consists
